@@ -28,9 +28,9 @@ setInterval(() => {
 // })
 
 const bot = mineflayer.createBot({
-    host: '############', //server name/ip
-    port: 00000, //server port
-    username: `Bot`,// name the bot
+    host: 'game5-fr.hosterfy.com', //server name/ip
+    port: 60288, //server port
+    username: `NeverGonaGiveUup`,// name the bot
     // password: ``,
     version: false, // false corresponds to auto version detection (that's the default), put for example "1.8.8" if you need a specific version
     auth: 'mojang' // optional; by default uses mojang, if using a microsoft account, set to 'microsoft'
